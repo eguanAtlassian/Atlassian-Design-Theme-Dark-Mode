@@ -19,9 +19,6 @@
 
 		"editorGroup.dropBackground": "#42526E",
 		"editorGroupHeader.tabsBackground": "#172B4D",
-		// "editor.findMatchBackground": "#ff0000",
-
-
 
 		"tab.activeBackground": "#0052CC",
 		"tab.activeForeground": "#ffffff",
@@ -35,7 +32,6 @@
 		"statusBar.background": "#0052CC",
 
 		"input.background": "#091E42",
-		// "inputOption.activeBackground":"#ff0000",
 
 		"dropdown.background": "#42526E",
 

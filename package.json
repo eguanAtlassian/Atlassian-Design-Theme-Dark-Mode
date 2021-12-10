@@ -6,6 +6,14 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "author": {
+        "name": "Evan Guan",
+        "email": "eguan@atlassian.com"
+    },
+    "repository": {
+        "url": "https://github.com/eguanAtlassian/Atlassian-Design-Theme-Dark-Mode.git",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
