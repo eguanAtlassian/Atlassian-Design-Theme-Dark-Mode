@@ -3,8 +3,8 @@
     "displayName": "Atlassian (Dark Mode)",
     "description": "Atlassian Dark Mode Theme made during ShipIt 53",
     "publisher": "AtlassianDesignTheme",
-    "version": "0.0.1",
-    "icon":"images/icon1.png",
+    "version": "0.0.2",
+    "icon":"images/icon2.png",
     "engines": {
         "vscode": "^1.63.0"
     },
